@@ -1,4 +1,4 @@
-<h1 align="center">So_Long</h1>
+<h1 align="center">:video_game: So_Long :video_game:</h1>
 
 ```
 1) Firstly we should retrieve our map from the map file
